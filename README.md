@@ -3,7 +3,7 @@
 
 Dynamic sky and TOD plugin for godot engine.
 ------------------------------------
-![Editor screenshot](https://raw.githubusercontent.com/7leodev/UniversalSky/main/Screenshots/Screenshot0.png)
+![Editor screenshot](./Screenshots/Screenshot0.png)
 
 
 ## Status:
