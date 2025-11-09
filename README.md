@@ -7,7 +7,7 @@ Dynamic sky and TOD plugin for godot engine.
 
 
 ## Status:
-> Alpha.
+> Alpha. work well for godot 3
 ------------------------------------
 
 ## Reflections:
